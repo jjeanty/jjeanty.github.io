@@ -1,0 +1,63 @@
+body{
+    background-color: #E9967A;
+    color: #808080;
+
+}
+
+#portefolio{
+    float: left;
+}
+
+nav a{
+    font-size: 1.5em;
+    font-weight: bold;
+    float: right;
+    margin: 1em;
+    text-decoration: none;
+    color: darkviolet;
+    
+    
+}
+
+marquee{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+a:hover{
+    color: #FF0000;
+    
+}
+
+.section1{
+    margin-bottom: -2%;
+    display: inline;
+}
+
+#image1{
+/*display: inline;*/
+margin-left: 50%;
+    width: 47%;
+    margin-top: 5%;
+    margin-bottom: -17%;
+    height: 20em;
+
+    
+}
+
+#image2{
+    margin-top: -15.5%;
+    width: 45%;
+    margin-left: 4.5%; 
+    
+}
+
+#contact{
+    color: darkviolet;
+    text-align: center;
+}
+
+#contact a{
+    text-decoration: none;
+}
+

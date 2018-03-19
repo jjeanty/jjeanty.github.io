@@ -1,0 +1,63 @@
+body{
+    background-color: #E9967A;
+    color: #808080;
+
+}
+
+#portefolio{
+    float: left;
+}
+
+nav a{
+    font-size: 1.5em;
+    font-weight: bold;
+    float: right;
+    margin: 1em;
+    text-decoration: none;
+    color: darkviolet;
+    
+    
+}
+
+
+a:hover{
+    color: #FF0000;
+    
+}
+
+.section1{
+    margin-bottom: -2%;
+    display: inline;
+}
+
+#video1, #video2{
+    display: inline;
+    margin-right: 12em;
+    
+}
+
+#contact{
+    color: darkviolet;
+    text-align: center;
+    margin-top: 100%;
+}
+
+#contact a{
+    text-decoration: none;
+    position: relative;
+    bottom: 20%;
+    
+}
+
+aside{
+    color: darkviolet;
+    font-size: 1.5em;
+    margin-left: 45%;
+   
+    margin-top: -40%;
+}
+
+aside p{
+  border: 3em blue dashed;  
+}
+
